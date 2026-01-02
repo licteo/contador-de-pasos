@@ -1,0 +1,7 @@
+{
+  "name": "StepSync AI",
+  "description": "An advanced AI-powered step counter and fitness companion that tracks your movement, calculates calories, and provides personalized AI coaching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
